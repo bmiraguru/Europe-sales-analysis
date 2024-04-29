@@ -1,4 +1,4 @@
-#Analysis done in SQL with by using advanced SQL concepts such as CTEs, rank and dense rank functions and also aggregations for better insights#
+#Analysis done in SQL with by using advanced SQL concepts such as CTEs, ranking functions  and  aggregations for better insights#
 
 SELECT 
     *
